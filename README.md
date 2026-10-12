@@ -8,6 +8,7 @@ A Python app for learning Polish vocabulary.
 - Let the user guess its meaning
 - Reveal the translation
 - Move to the next flashcard
+- Add new words to vocabulary
 
 ## Run
 python main.py
