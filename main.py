@@ -1,2 +1,16 @@
+import csv
 
 print("Welcome to Polish Flashcards!")
+
+with open("data/db.csv", encoding="utf-8", newline="") as file:
+    reader = csv.DictReader(file)
+    words = list(reader)
+
+for word in words:
+
+    print("Translate ", word["polish"])
+    answer = input("Your translation: ")
+    if answer.strip().lower() == word["ukrainian"].strip().lower():
+        print("Perfect!")
+    else:
+        print("Nope, correct answer is ", word["ukrainian"].strip())
