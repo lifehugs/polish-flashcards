@@ -16,3 +16,6 @@ for word in words:
         print("Perfect!")
     else:
         print("Nope, correct answer is ", word["ukrainian"].strip())
+
+
+print("Spaced repetition session finished. You are amazing!")
