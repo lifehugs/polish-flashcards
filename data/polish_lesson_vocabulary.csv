@@ -1,0 +1,193 @@
+﻿id,polish,ukrainian,category
+1,kupować,купувати,Shopping
+2,kupić,купити,Shopping
+3,sprzedawać,продавати,Shopping
+4,sprzedać,продати,Shopping
+5,zakupy,покупки,Shopping
+6,kupuję,я купую,Shopping
+7,kupujesz,ти купуєш,Shopping
+8,kupuje,він/вона купує,Shopping
+9,kupujemy,ми купуємо,Shopping
+10,kupujecie,ви купуєте,Shopping
+11,kupują,вони купують,Shopping
+12,kupuję buty,я купую взуття,Shopping
+13,Co kupujesz?,Що ти купуєш?,Shopping
+14,Co pani kupuje?,Що ви купуєте? (до жінки),Shopping
+15,Co pan kupuje?,Що ви купуєте? (до чоловіка),Shopping
+16,Co państwo kupują?,Що ви купуєте? (до групи),Shopping
+17,chciałabym kupić,я хотіла б купити,Shopping
+18,chciałabym sprzedać,я хотіла б продати,Shopping
+19,proszę,будь ласка,Shopping
+20,poproszę,попрошу,Shopping
+21,ile?,скільки?,Shopping
+22,ile kosztuje?,скільки коштує?,Shopping
+23,drogi,дорогий,Shopping
+24,tani,дешевий,Shopping
+25,drogie,дороге,Shopping
+26,tanie,дешеве,Shopping
+27,sklep,магазин,Stores
+28,sklep spożywczy,продуктовий магазин,Stores
+29,sklep papierniczy,канцелярський магазин,Stores
+30,księgarnia,книгарня,Stores
+31,drogeria,магазин косметики та побутової хімії,Stores
+32,optyk,оптика,Stores
+33,sklep z elektroniką,магазин електроніки,Stores
+34,kiosk,кіоск,Stores
+35,apteka,аптека,Stores
+36,sklep odzieżowy,магазин одягу,Stores
+37,najbliższy sklep,найближчий магазин,Stores
+38,Gdzie jest najbliższy kantor?,Де найближчий обмінник?,Stores
+39,ołówek,олівець,School supplies
+40,długopis,ручка,School supplies
+41,gumka,гумка для стирання,School supplies
+42,temperówka,підстругачка,School supplies
+43,zeszyt,зошит,School supplies
+44,książka,книга,School supplies
+45,podręcznik,підручник,School supplies
+46,kartka,аркуш паперу,School supplies
+47,papier,папір,School supplies
+48,linijka,лінійка,School supplies
+49,nożyczki,ножиці,School supplies
+50,klej,клей,School supplies
+51,zakreślacz,маркер-виділювач,School supplies
+52,marker,маркер,School supplies
+53,piórnik,пенал,School supplies
+54,słownik,словник,School supplies
+55,mapa,мапа,School supplies
+56,mapa Polski,мапа Польщі,School supplies
+57,buty,взуття,Products and clothing
+58,ubrania,одяг,Products and clothing
+59,odzież,одяг,Products and clothing
+60,kosmetyki,косметика,Products and clothing
+61,krem,крем,Products and clothing
+62,szampon,шампунь,Products and clothing
+63,mydło,мило,Products and clothing
+64,ręcznik,рушник,Products and clothing
+65,dezodorant,дезодорант,Products and clothing
+66,okulary,окуляри,Products and clothing
+67,dżinsy,джинси,Products and clothing
+68,komórka,мобільний телефон,Products and clothing
+69,telefon,телефон,Products and clothing
+70,aparat fotograficzny,фотоапарат,Products and clothing
+71,komputer,комп'ютер,Products and clothing
+72,laptop,ноутбук,Products and clothing
+73,gry komputerowe,комп'ютерні ігри,Products and clothing
+74,filmy,фільми,Products and clothing
+75,muzyka,музика,Products and clothing
+76,elektronika,електроніка,Products and clothing
+77,pieniądze,гроші,Money and exchange
+78,gotówka,готівка,Money and exchange
+79,kantor,обмінник валют,Money and exchange
+80,waluta,валюта,Money and exchange
+81,kurs,курс,Money and exchange
+82,kurs euro,курс євро,Money and exchange
+83,kurs dolara,курс долара,Money and exchange
+84,euro,євро,Money and exchange
+85,dolar,долар,Money and exchange
+86,złoty,злотий,Money and exchange
+87,złotych,злотих,Money and exchange
+88,reszta,решта,Money and exchange
+89,cena,ціна,Money and exchange
+90,zapłacić,заплатити,Money and exchange
+91,płacić,платити,Money and exchange
+92,wymienić pieniądze,обміняти гроші,Money and exchange
+93,Czy mogę zapłacić gotówką?,Чи можу я заплатити готівкою?,Money and exchange
+94,Czy dostanę resztę?,Чи отримаю я решту?,Money and exchange
+95,Jaki jest dziś kurs euro?,Який сьогодні курс євро?,Money and exchange
+96,Chcę kupić euro,Я хочу купити євро,Money and exchange
+97,Chcę sprzedać euro,Я хочу продати євро,Money and exchange
+98,Mam sto euro,У мене сто євро,Money and exchange
+99,sto euro,сто євро,Money and exchange
+100,dziękuję,дякую,Money and exchange
+101,wydawać,витрачати,Spending
+102,wydać,витратити,Spending
+103,wydaję,я витрачаю,Spending
+104,wydajesz,ти витрачаєш,Spending
+105,wydaje,він/вона витрачає,Spending
+106,wydajemy,ми витрачаємо,Spending
+107,wydajecie,ви витрачаєте,Spending
+108,wydają,вони витрачають,Spending
+109,oszczędzać,заощаджувати,Spending
+110,oszczędności,заощадження,Spending
+111,wydatki,витрати,Spending
+112,pieniądze na jedzenie,гроші на їжу,Spending
+113,wydawać pieniądze na ubrania,витрачати гроші на одяг,Spending
+114,na co?,на що?,Spending
+115,dużo,багато,Spending
+116,mało,мало,Spending
+117,za dużo,занадто багато,Spending
+118,codziennie,щодня,Spending
+119,tygodniowo,щотижня,Spending
+120,miesięcznie,щомісяця,Spending
+121,wczoraj,вчора,Spending
+122,ostatnio,останнім часом,Spending
+123,w weekendy,на вихідних,Spending
+124,Ile pieniędzy wydajesz dziennie?,Скільки грошей ти витрачаєш щодня?,Spending
+125,Na co wydajesz najwięcej pieniędzy?,На що ти витрачаєш найбільше грошей?,Spending
+126,Czy lubisz wydawać pieniądze?,Чи любиш ти витрачати гроші?,Spending
+127,Wolę oszczędzać,Я волію заощаджувати,Spending
+128,jedzenie,їжа,Food and household
+129,napoje,напої,Food and household
+130,chleb,хліб,Food and household
+131,bułka,булочка,Food and household
+132,pomidor,помідор,Food and household
+133,jajko,яйце,Food and household
+134,mleko,молоко,Food and household
+135,piwo,пиво,Food and household
+136,oliwki,оливки,Food and household
+137,czarne oliwki,чорні оливки,Food and household
+138,zielone oliwki,зелені оливки,Food and household
+139,sól,сіль,Food and household
+140,cukier,цукор,Food and household
+141,pieprz,перець,Food and household
+142,oliwa,оливкова олія,Food and household
+143,szklanka,склянка,Food and household
+144,filiżanka,чашка,Food and household
+145,kubek,горнятко,Food and household
+146,talerz,тарілка,Food and household
+147,miska,миска,Food and household
+148,widelec,виделка,Food and household
+149,nóż,ніж,Food and household
+150,łyżka,ложка,Food and household
+151,łyżeczka,чайна ложка,Food and household
+152,serwetka,серветка,Food and household
+153,jedzenie i napoje,їжа та напої,Expenses and travel
+154,alkohol,алкоголь,Expenses and travel
+155,papierosy,сигарети,Expenses and travel
+156,mieszkanie,житло,Expenses and travel
+157,energia elektryczna,електроенергія,Expenses and travel
+158,zdrowie,здоров'я,Expenses and travel
+159,transport,транспорт,Expenses and travel
+160,komunikacja,зв'язок,Expenses and travel
+161,rekreacja,відпочинок,Expenses and travel
+162,kultura,культура,Expenses and travel
+163,edukacja,освіта,Expenses and travel
+164,restauracja,ресторан,Expenses and travel
+165,hotel,готель,Expenses and travel
+166,podróże,подорожі,Expenses and travel
+167,paliwo,пальне,Expenses and travel
+168,zatankować samochód,заправити автомобіль,Expenses and travel
+169,benzyna,бензин,Expenses and travel
+170,litry,літри,Expenses and travel
+171,rachunek,рахунок,Expenses and travel
+172,paragon,чек,Expenses and travel
+173,paragon fiskalny,фіскальний чек,Expenses and travel
+174,ten,цей (чоловічий рід),Grammar and phrases
+175,ta,ця (жіночий рід),Grammar and phrases
+176,to,це (середній рід),Grammar and phrases
+177,Co to jest?,Що це?,Grammar and phrases
+178,Co dla pana?,Що для вас? (до чоловіка),Grammar and phrases
+179,Co dla pani?,Що для вас? (до жінки),Grammar and phrases
+180,Dzień dobry,Добрий день,Grammar and phrases
+181,Do widzenia,До побачення,Grammar and phrases
+182,Proszę bardzo,Будь ласка (коли щось дають),Grammar and phrases
+183,Czy mogę pomóc?,Чи можу я допомогти?,Grammar and phrases
+184,Czy coś jeszcze?,Щось іще?,Grammar and phrases
+185,To wszystko,Це все,Grammar and phrases
+186,Ile płacę?,Скільки я маю заплатити?,Grammar and phrases
+187,Zaraz,зараз,Grammar and phrases
+188,bardzo,дуже,Grammar and phrases
+189,nowy,новий,Grammar and phrases
+190,nowe,нове,Grammar and phrases
+191,polski,польський,Grammar and phrases
+192,angielski,англійський,Grammar and phrases

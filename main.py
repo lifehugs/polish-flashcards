@@ -1,25 +1,17 @@
-import csv
-import random
 
-print("Welcome to Polish Flashcards!")
-
-with open("data/db.csv", encoding="utf-8", newline="") as file:
-    reader = csv.DictReader(file)
-    words = list(reader)
-    random.shuffle(words)
-
-score = 0
-
-for word in words:
-
-    print("Translate ", word["polish"])
-    answer = input("Your translation: ")
-    if answer.strip().lower() == word["ukrainian"].strip().lower():
-        print("Perfect!")
-        score += 1
-    else:
-        print("Nope, correct answer is ", word["ukrainian"].strip())
-    print("Your current score is", score)
+from flashcards import load_words, shuffle_words, run_session
 
 
-print("Spaced repetition session finished. You are amazing!")
+def main():
+    print("Welcome to Polish Flashcards!")
+
+    words = load_words("data/polish_lesson_vocabulary.csv")
+    words = shuffle_words(words)
+
+    run_session(words)
+
+    print("Spaced repetition session finished. You are amazing!")
+
+
+if __name__ == "__main__":
+    main()
